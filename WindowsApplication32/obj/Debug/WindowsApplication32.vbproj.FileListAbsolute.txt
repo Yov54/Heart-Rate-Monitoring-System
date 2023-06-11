@@ -1,0 +1,25 @@
+c:\users\windows\documents\visual studio 2015\Projects\WindowsApplication32\WindowsApplication32\bin\Debug\WindowsApplication32.exe.config
+c:\users\windows\documents\visual studio 2015\Projects\WindowsApplication32\WindowsApplication32\bin\Debug\WindowsApplication32.exe
+c:\users\windows\documents\visual studio 2015\Projects\WindowsApplication32\WindowsApplication32\bin\Debug\WindowsApplication32.pdb
+c:\users\windows\documents\visual studio 2015\Projects\WindowsApplication32\WindowsApplication32\bin\Debug\WindowsApplication32.xml
+c:\users\windows\documents\visual studio 2015\Projects\WindowsApplication32\WindowsApplication32\obj\Debug\WindowsApplication32.vbprojResolveAssemblyReference.cache
+c:\users\windows\documents\visual studio 2015\Projects\WindowsApplication32\WindowsApplication32\obj\Debug\WindowsApplication32.Form1.resources
+c:\users\windows\documents\visual studio 2015\Projects\WindowsApplication32\WindowsApplication32\obj\Debug\WindowsApplication32.Resources.resources
+c:\users\windows\documents\visual studio 2015\Projects\WindowsApplication32\WindowsApplication32\obj\Debug\WindowsApplication32.vbproj.GenerateResource.Cache
+c:\users\windows\documents\visual studio 2015\Projects\WindowsApplication32\WindowsApplication32\obj\Debug\WindowsApplication32.exe
+c:\users\windows\documents\visual studio 2015\Projects\WindowsApplication32\WindowsApplication32\obj\Debug\WindowsApplication32.xml
+c:\users\windows\documents\visual studio 2015\Projects\WindowsApplication32\WindowsApplication32\obj\Debug\WindowsApplication32.pdb
+E:\FILE YOVI\Kuliah\SMT 5\Pemrograman Visual + Lab\WindowsApplication32\WindowsApplication32\obj\Debug\WindowsApplication32.vbproj.AssemblyReference.cache
+E:\FILE YOVI\Kuliah\SMT 5\Pemrograman Visual + Lab\WindowsApplication32\WindowsApplication32\obj\Debug\WindowsApplication32.vbproj.SuggestedBindingRedirects.cache
+E:\FILE YOVI\Kuliah\SMT 5\Pemrograman Visual + Lab\WindowsApplication32\WindowsApplication32\obj\Debug\WindowsApplication32.vbproj.ResolveComReference.cache
+E:\FILE YOVI\Kuliah\SMT 5\Pemrograman Visual + Lab\WindowsApplication32\WindowsApplication32\obj\Debug\WindowsApplication32.Form1.resources
+E:\FILE YOVI\Kuliah\SMT 5\Pemrograman Visual + Lab\WindowsApplication32\WindowsApplication32\obj\Debug\WindowsApplication32.Resources.resources
+E:\FILE YOVI\Kuliah\SMT 5\Pemrograman Visual + Lab\WindowsApplication32\WindowsApplication32\obj\Debug\WindowsApplication32.vbproj.GenerateResource.cache
+E:\FILE YOVI\Kuliah\SMT 5\Pemrograman Visual + Lab\WindowsApplication32\WindowsApplication32\obj\Debug\WindowsApplication32.vbproj.CoreCompileInputs.cache
+E:\FILE YOVI\Kuliah\SMT 5\Pemrograman Visual + Lab\WindowsApplication32\WindowsApplication32\obj\Debug\WindowsApplication32.exe
+E:\FILE YOVI\Kuliah\SMT 5\Pemrograman Visual + Lab\WindowsApplication32\WindowsApplication32\obj\Debug\WindowsApplication32.xml
+E:\FILE YOVI\Kuliah\SMT 5\Pemrograman Visual + Lab\WindowsApplication32\WindowsApplication32\obj\Debug\WindowsApplication32.pdb
+E:\FILE YOVI\Kuliah\SMT 5\Pemrograman Visual + Lab\WindowsApplication32\WindowsApplication32\bin\Debug\WindowsApplication32.exe.config
+E:\FILE YOVI\Kuliah\SMT 5\Pemrograman Visual + Lab\WindowsApplication32\WindowsApplication32\bin\Debug\WindowsApplication32.exe
+E:\FILE YOVI\Kuliah\SMT 5\Pemrograman Visual + Lab\WindowsApplication32\WindowsApplication32\bin\Debug\WindowsApplication32.pdb
+E:\FILE YOVI\Kuliah\SMT 5\Pemrograman Visual + Lab\WindowsApplication32\WindowsApplication32\bin\Debug\WindowsApplication32.xml
