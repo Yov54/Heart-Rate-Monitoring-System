@@ -1,1 +1,2 @@
 # Heart-Rate-Monitoring-System
+The Heart Rate Monitoring System project is an assignment for my Visual Programming course that utilizes Visual Basic. In this project, I am tasked with developing a system that can monitor and track heart rates. Through the implementation of Visual Basic programming, I aim to create a user-friendly interface that displays real-time heart rate data and provides necessary functionalities for analyzing and recording heart rate measurements.
